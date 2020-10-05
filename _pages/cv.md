@@ -1,8 +1,7 @@
 ---
-layout: cv
-permalink: /cv/
-title: cv
+layout: page
+title: resume
+permalink: /assets/pdf/resume.pdf
+description: Resume.
 nav: true
-nav_order: 3
-cv_pdf: example_pdf.pdf
 ---
